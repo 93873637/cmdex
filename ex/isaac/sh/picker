@@ -1,0 +1,10 @@
+#!/bin/bash
+
+TARGET_DIR=/home/tomli/workspace/cloudfarming/src/picker
+
+echo
+echo "** Enter Target Directory:"
+echo $TARGET_DIR
+cd $TARGET_DIR
+
+echo

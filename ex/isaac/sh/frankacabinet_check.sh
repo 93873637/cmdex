@@ -1,0 +1,1 @@
+otc task=FrankaCabinet checkpoint=runs/FrankaCabinet/nn/FrankaCabinet.pth
